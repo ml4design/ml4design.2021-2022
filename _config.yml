@@ -3,6 +3,7 @@ remote_theme: pmarsceill/just-the-docs
 
 title: ML4Design
 description: Machine Learning for Design
+baseurl: "/ml4design.2021-2022"
 url: "https://ml4design.github.io"
 
 permalink: pretty
